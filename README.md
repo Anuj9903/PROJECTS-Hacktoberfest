@@ -2,7 +2,7 @@
 
 Welcome to Hacktoberfest 2023! 🎉
 
-![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/share-card.png)
+![Hacktoberfest Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
 
 Hacktoberfest is an annual event that encourages open-source contributions and collaboration. It's a fantastic opportunity for developers of all levels to get involved, learn, and contribute to exciting open-source projects. Whether you're a seasoned contributor or just starting, Hacktoberfest welcomes your contributions.
 
