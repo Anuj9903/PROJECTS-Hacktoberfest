@@ -22,13 +22,6 @@ Hacktoberfest is an annual event that encourages open-source contributions and c
 2. Contributions must be pull requests made during the Hacktoberfest period (October 1st - 31st).
 3. You need to make four valid contributions to be eligible for swag.
 
-## Getting Started
-
-If you're new to open source or looking for projects to contribute to, consider exploring the following repositories:
-
-- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners): A collection of beginner-friendly open-source projects.
-- [Your Favorite Open Source Project](https://github.com/YourUsername/YourRepo): Contribute to your favorite projects by creating new features or fixing bugs.
-
 ## Remember
 
 - Quality over quantity: Make meaningful contributions.
